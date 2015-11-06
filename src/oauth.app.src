@@ -6,6 +6,7 @@
   {applications, [kernel, stdlib, crypto, public_key, inets]},
 
   {maintainers, ["Tim Fletcher"]},
+  {pkg_name, barrel_oauth},
   {licenses, ["BSD"]},
   {links, [{"Github", "https://github.com/tim/erlang-oauth"}]}
 ]}.
